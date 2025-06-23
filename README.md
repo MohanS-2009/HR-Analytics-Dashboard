@@ -99,6 +99,5 @@
 
 6. Screenshots / Demos
 
-
-Dashboard Preview
+   Dashboard Preview
 ![image alt](https://github.com/MohanS-2009/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.PNG)
