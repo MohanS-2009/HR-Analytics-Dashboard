@@ -95,9 +95,10 @@
       📌 Role-based Focus: Specific roles like Lab Technicians and Sales have high turnover—suggesting targeted retention programs.
 
       📌 Educational Backgrounds: Life Sciences and Medical degree holders form the bulk of attrition—can guide tailored engagement strategies.
+   
 
 
-6. Screenshots / Demos
+7. Screenshots / Demos
 
    Dashboard Preview
 ![image alt](https://github.com/MohanS-2009/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.PNG)
